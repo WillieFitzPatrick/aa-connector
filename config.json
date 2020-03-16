@@ -1,0 +1,14 @@
+{
+ "sendMails": true,
+ "logErrors": true,
+ "logTransactions": false,
+ "smtpUrl": "mail.midominio.com.ar",
+ "smtpPort": "25",
+ "smtpUser": "usuario@midominio.com.ar",
+ "smtpPassword": "password",
+ "mailTo": "xavier.buxade@ottech.com.ar",
+ "frec": "10",
+ "arbaUser": "arba",
+ "arbaPassword": "1234",
+ "arbaUrl": "https://cot.arba.gov.ar/TransporteBienes/SeguridadCliente/presentarRemitos.do"
+}
