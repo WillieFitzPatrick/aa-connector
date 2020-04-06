@@ -1,0 +1,12 @@
+{
+    "dossiers":[
+        {
+            "dossier": "AAA",
+            "ambiente": "test"
+        },
+        {
+            "dossier": "BBB",
+            "ambiente": "prod"
+        }
+    ]
+}
