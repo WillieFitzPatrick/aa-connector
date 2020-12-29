@@ -7,8 +7,5 @@
  "smtpUser": "usuario@midominio.com.ar",
  "smtpPassword": "password",
  "mailTo": "xavier.buxade@ottech.com.ar",
- "frec": "10",
- "arbaUser": "arba",
- "arbaPassword": "1234",
- "arbaUrl": "https://cot.arba.gov.ar/TransporteBienes/SeguridadCliente/presentarRemitos.do"
+ "frec": "10"
 }
