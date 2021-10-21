@@ -1,0 +1,1 @@
+aa-connector-cmd -file test.json -url http://localhost:8200/wsfe/cae/TEST/20181348225

@@ -1,0 +1,46 @@
+{
+    "PtoVta": 1,
+    "CbteTipo": 1,
+    "Concepto": 1,
+    "DocTipo": 80,
+    "DocNro": 20181348225,
+    "CbteNro": 2,
+    "CbteFch": "20211020",
+    "ImpTotal": 6771.70,
+    "ImpTotConc": 0,
+    "ImpNeto": 5523.41,
+    "ImpOpEx": 0,
+    "ImpTrib": 88.37,
+    "ImpIVA": 1159.92,
+    "FchServDesde": "",
+    "FchServHasta": "",
+    "FchVtoPago": "",
+    "MonId": "PES",
+    "MonCotiz": 1,
+    "CbtesAsoc": [],
+    "Iva":[{
+                "Id": 5,
+                "BaseImp": 5523.41,
+                "Importe": 1159.92
+        }
+    ], 
+    "Tributos": [
+        {
+                "Id": 99,
+                "Desc": "IIB CABA",
+                "BaseImp": 5523.41,
+                "Alic": 0.10,
+                "Importe": 5.52
+        },
+        {
+                "Id": 99,
+                "Desc": "IIBB BA",
+                "BaseImp": 5523.41,
+                "Alic": 1.50,
+                "Importe": 82.85
+            }
+    ],
+    "Opcionales": [],
+    "Compradores": []
+}
+
